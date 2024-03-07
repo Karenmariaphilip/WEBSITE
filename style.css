@@ -1,0 +1,136 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: fixed;
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    row-gap: 12px;
+}
+#body{
+ #body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+}
+#markett{
+    justify-content: right;
+    display: flex;
+    align-items: right;
+}
+
+#neque{
+    display: grid;
+    justify-content: right;
+    margin-top: 24%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#porro{
+    display: flex;
+    margin-top: 24%;
+    display: flex;
+    align-items: right;
+}
+#H1{
+color: white;
+background-color: rgb(245, 182, 23);
+text-decoration: none;
+padding:2px;
+object-fit: scale-down;
+width: 200px;
+height: 60px;
+background-size: 100% 100%;
+border: solid 2px rgb(245, 182, 23);
+}
+
+#header{
+    display: grid;
+    justify-content: left;
+    font-size: larger;
+    width = 20%
+    height = 9%
+}
+
+#images{
+    display: flex;
+    text-align: left;
+    height: auto;
+    max-width: 100%;
+}
+
+#close{
+    display: inline-flex;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
+    position: absolute;
+    text-align: center;
+}
+
+#riadd{
+     display: flex;
+    text-align: center;
+    display: flex;
+    justify-content:space-around;
+    max-width: 100%;
+    max-height: 200%;
+}
+#services{
+    text-align: justify;
+    display: flex;
+}
+#close{
+    display: flex;
+    text-align: center;
+    justify-content: center;  
+}
+#magnis{
+    justify-content: right;
+}
+#button{
+    background-color: gold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;     
+}
+#nvb{
+background-image: url(nvb.webp);
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20%;
+    color: cre;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-weight: 1000;
+}
+#btn{
+    background-color: gold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+}
+
+#testimonial{
+    display: flex;
+    justify-content:space-around;
+    max-width: 100%;
+    max-height: 200%;
+}
+
+#email{
+    display: flex;
+    justify-content:space-around;
+    max-width: 100%;
+    max-height: 200%;  
+}H11{
+ display: flex;
+}
